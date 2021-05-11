@@ -12,6 +12,7 @@
             "es2021",
             "dom"
         ],
-        "jsx" : "react"
+        "jsx" : "react",
+        // "esModuleInterop": true
     }
 }

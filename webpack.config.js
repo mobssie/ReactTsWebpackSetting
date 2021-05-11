@@ -8,7 +8,7 @@ module.exports = {
         extensions: ['.jsx', '.js', '.tsx', '.ts'],
     },
     entry: {
-        app: './index.tsx'
+        app: './client.tsx'
     },
     module:{
         rules:[{
