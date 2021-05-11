@@ -2,7 +2,7 @@
 react typescript webpack setting init. 
 
   
-###순서대로 실행해서 만듬. 
+### 순서대로 실행해서 만듬. 
 ```
 npm init
 npm i typescript
@@ -16,3 +16,7 @@ npm i @types/react @types/react-dom
 ```
 npx webpack
 ```
+
+
+
+https://developer-mobssie.tistory.com/50
